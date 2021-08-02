@@ -1,16 +1,9 @@
-# workbanch
+# flutter tinder swipable card
 
 Flutter simple card that can be swiped like the ones in Tinder.
 
-## Getting Started
+https://i.hizliresim.com/5rx5h17.png
+https://i.hizliresim.com/ji1wr5y.png
+https://i.hizliresim.com/1149hss.png
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+BLoC pattern was used to rotate dragged card as well as a general state management solution.
