@@ -1,6 +1,6 @@
 # workbanch
 
-A new Flutter project.
+Flutter simple card that can be swiped like the ones in Tinder.
 
 ## Getting Started
 
